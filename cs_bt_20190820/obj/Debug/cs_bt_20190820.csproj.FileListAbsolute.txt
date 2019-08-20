@@ -1,0 +1,8 @@
+E:\LILEI\c++++\PROGRAM\bluetooth\cs_bt_20190820\bin\Debug\cs_bt_20190820.exe
+E:\LILEI\c++++\PROGRAM\bluetooth\cs_bt_20190820\bin\Debug\cs_bt_20190820.pdb
+E:\LILEI\c++++\PROGRAM\bluetooth\cs_bt_20190820\bin\Debug\InTheHand.Net.Personal.dll
+E:\LILEI\c++++\PROGRAM\bluetooth\cs_bt_20190820\obj\Debug\cs_bt_20190820.csprojAssemblyReference.cache
+E:\LILEI\c++++\PROGRAM\bluetooth\cs_bt_20190820\obj\Debug\cs_bt_20190820.csproj.CoreCompileInputs.cache
+E:\LILEI\c++++\PROGRAM\bluetooth\cs_bt_20190820\obj\Debug\cs_bt_20190820.csproj.CopyComplete
+E:\LILEI\c++++\PROGRAM\bluetooth\cs_bt_20190820\obj\Debug\cs_bt_20190820.exe
+E:\LILEI\c++++\PROGRAM\bluetooth\cs_bt_20190820\obj\Debug\cs_bt_20190820.pdb
