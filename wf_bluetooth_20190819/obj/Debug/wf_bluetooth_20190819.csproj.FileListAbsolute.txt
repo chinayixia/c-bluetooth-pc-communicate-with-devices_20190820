@@ -1,0 +1,16 @@
+F:\github\bluetooth\[C#蓝牙]C#蓝牙工程\RubikSolverV2\wf_bluetooth_20190819\obj\Debug\wf_bluetooth_20190819.csprojAssemblyReference.cache
+F:\github\bluetooth\[C#蓝牙]C#蓝牙工程\RubikSolverV2\wf_bluetooth_20190819\obj\Debug\wf_bluetooth_20190819.Form1.resources
+F:\github\bluetooth\[C#蓝牙]C#蓝牙工程\RubikSolverV2\wf_bluetooth_20190819\obj\Debug\wf_bluetooth_20190819.Properties.Resources.resources
+F:\github\bluetooth\[C#蓝牙]C#蓝牙工程\RubikSolverV2\wf_bluetooth_20190819\obj\Debug\wf_bluetooth_20190819.csproj.GenerateResource.cache
+F:\github\bluetooth\[C#蓝牙]C#蓝牙工程\RubikSolverV2\wf_bluetooth_20190819\obj\Debug\wf_bluetooth_20190819.csproj.CoreCompileInputs.cache
+E:\LILEI\c++++\PROGRAM\bluetooth\wf_bluetooth_20190819\obj\Debug\wf_bluetooth_20190819.csprojAssemblyReference.cache
+E:\LILEI\c++++\PROGRAM\bluetooth\wf_bluetooth_20190819\obj\Debug\wf_bluetooth_20190819.Form1.resources
+E:\LILEI\c++++\PROGRAM\bluetooth\wf_bluetooth_20190819\obj\Debug\wf_bluetooth_20190819.Properties.Resources.resources
+E:\LILEI\c++++\PROGRAM\bluetooth\wf_bluetooth_20190819\obj\Debug\wf_bluetooth_20190819.csproj.GenerateResource.cache
+E:\LILEI\c++++\PROGRAM\bluetooth\wf_bluetooth_20190819\obj\Debug\wf_bluetooth_20190819.csproj.CoreCompileInputs.cache
+E:\LILEI\c++++\PROGRAM\bluetooth\wf_bluetooth_20190819\bin\Debug\wf_bluetooth_20190819.exe.config
+E:\LILEI\c++++\PROGRAM\bluetooth\wf_bluetooth_20190819\bin\Debug\wf_bluetooth_20190819.exe
+E:\LILEI\c++++\PROGRAM\bluetooth\wf_bluetooth_20190819\bin\Debug\wf_bluetooth_20190819.pdb
+E:\LILEI\c++++\PROGRAM\bluetooth\wf_bluetooth_20190819\obj\Debug\wf_bluetooth_20190819.csproj.CopyComplete
+E:\LILEI\c++++\PROGRAM\bluetooth\wf_bluetooth_20190819\obj\Debug\wf_bluetooth_20190819.exe
+E:\LILEI\c++++\PROGRAM\bluetooth\wf_bluetooth_20190819\obj\Debug\wf_bluetooth_20190819.pdb
