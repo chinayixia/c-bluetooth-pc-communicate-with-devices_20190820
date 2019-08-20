@@ -2,7 +2,6 @@
 bluetooth pc communicate with devices01
 
 
-![](https://github.com/chinayixia/c-bluetooth-pc-communicate-with-devices_20190820/blob/master/pic/Screenshot_2019-08-20-18-30-11.png)
 
 
 ![](https://github.com/chinayixia/c-bluetooth-pc-communicate-with-devices_20190820/blob/master/pic/btconsole.png)
