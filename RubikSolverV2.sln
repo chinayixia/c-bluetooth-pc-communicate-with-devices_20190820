@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubikSolverV2", "RubikSolverV2\RubikSolverV2.csproj", "{D84A52C5-6684-4513-8351-AC5885295E48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wf_bluetooth_20190819", "wf_bluetooth_20190819\wf_bluetooth_20190819.csproj", "{B604AADD-10FD-4B56-847D-85BBAEBEDF85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_bt_20190820", "cs_bt_20190820\cs_bt_20190820.csproj", "{2DE2B104-C9BD-40F8-B936-3FD067BECD4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D84A52C5-6684-4513-8351-AC5885295E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D84A52C5-6684-4513-8351-AC5885295E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D84A52C5-6684-4513-8351-AC5885295E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D84A52C5-6684-4513-8351-AC5885295E48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B604AADD-10FD-4B56-847D-85BBAEBEDF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B604AADD-10FD-4B56-847D-85BBAEBEDF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B604AADD-10FD-4B56-847D-85BBAEBEDF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B604AADD-10FD-4B56-847D-85BBAEBEDF85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE2B104-C9BD-40F8-B936-3FD067BECD4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE2B104-C9BD-40F8-B936-3FD067BECD4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE2B104-C9BD-40F8-B936-3FD067BECD4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE2B104-C9BD-40F8-B936-3FD067BECD4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {422A8E1E-EF4F-4717-B3FA-39665B6AF2FB}
+	EndGlobalSection
+EndGlobal
